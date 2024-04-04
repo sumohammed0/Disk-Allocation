@@ -15,7 +15,7 @@ The disk stores its contents in an array of 256 blocks of 512 bytes each. The fi
  7) Delete a file  
  8) Exit  
 
-Compile: Javac *.java
+Compile: Javac *.java  
 Run:  Java Main "contiguous"  or Java Main "chained"
 
 note: 
